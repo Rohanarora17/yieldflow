@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Allow only these files and directories
+!.gitignore
+!.gitmodules
+!README.md
+!frontend/
+!backend/
+!contracts/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

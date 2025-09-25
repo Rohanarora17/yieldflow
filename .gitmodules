@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Rohanarora17/aicctp-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Rohanarora17/aicctp-backend.git
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/Rohanarora17/aicctp-contracts.git
